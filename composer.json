@@ -1,5 +1,5 @@
 {
-    "name": "ayupcreative/laravel-class-trait-booter",
+    "name": "ayup-creative/laravel-trait-initialization",
     "description": "Boot traits associated with objects automatically - similar to the way Laravel does this with Models",
     "type": "library",
     "license": "MIT",
