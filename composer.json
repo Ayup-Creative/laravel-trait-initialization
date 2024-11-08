@@ -1,0 +1,19 @@
+{
+    "name": "ayupcreative/laravel-class-trait-booter",
+    "description": "Boot traits associated with objects automatically - similar to the way Laravel does this with Models",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ayup\\LaravelClassTraitBooter\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Ayup\\LaravelClassTraitBooter\\LaravelClassTraitBooterServiceProvider"
+            ]
+        }
+    }
+}
